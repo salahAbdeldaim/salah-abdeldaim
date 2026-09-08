@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Salah+Abdeldaim;AI+%26+Data+Science+Student;Building+with+Generative+AI+%26+RAG;Creator+%26+Tech+Lead+%40+Iskoola;AI+Agents+%26+Workflow+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Salah+Abdeldaim;AI+%26+Data+Science+Student;Building+with+Generative+AI+%26+RAG;AI+Agents+%26+Workflow+Automation" alt="Typing SVG" />
 
   <h3 align="center">🚀 AI & Data Science Student · GenAI & RAG · Full-Stack & Automation</h3>
   <p align="center"><b>Cairo, Egypt 🇪🇬</b></p>
